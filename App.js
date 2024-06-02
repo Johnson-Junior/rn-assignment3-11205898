@@ -22,7 +22,7 @@ export default function App() {
     'Requirement Gathering',
     'Database Design and Implementation',
     'Deployment',
-    'Task 13',
+    'Hosting',
     'Task 14',
     'Task 15',
   ]);
