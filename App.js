@@ -19,7 +19,7 @@ export default function App() {
     'Front-end development',
     'Back-end development',
     'Authentication and Security',
-    'Task 10',
+    'Requirement Gathering',
     'Task 11',
     'Task 12',
     'Task 13',
