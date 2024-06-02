@@ -10,10 +10,10 @@ export default function App() {
   const [task, setTask] = useState('');
   const [tasks, setTasks] = useState([]);
   const [ongoingTasks, setOngoingTasks] = useState([
-    'Task 1',
-    'Task 2',
-    'Task 3',
-    'Task 4',
+    'Mobile App Development',
+    'Web Development',
+    'Push ups',
+    'API integration',
     'Task 5',
     'Task 6',
     'Task 7',
