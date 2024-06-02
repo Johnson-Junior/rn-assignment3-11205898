@@ -23,8 +23,8 @@ export default function App() {
     'Database Design and Implementation',
     'Deployment',
     'Hosting',
-    'Task 14',
-    'Task 15',
+    'Marketing and Promotion',
+    'Maintenance',
   ]);
 
   const handleAddTask = () => {
